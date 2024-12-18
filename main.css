@@ -1,0 +1,29 @@
+.container{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.bacround-img{
+    width: 1320px;
+    height: 400px;
+    background-image: url(./img/Banner.jpg);    
+}
+
+.bacround-txt-box{
+    width: 400px;
+    height: 228px;
+    padding: 86px 834px 86px 60px;
+    font-size: 56px;
+    text-align: left;
+    font-weight: 900;
+}
+
+.txt-1{
+    color:#F0B861;
+}
+
+.txt-2{
+    font-size: 56px;
+    color: white; 
+}
